@@ -76,7 +76,3 @@ All videos are saved to:
 ```
 ~/.claude/skills/download-twitter-video/videos/
 ```
-
-## Update check
-
-This skill is managed by [skills.sh](https://skills.sh). To check for updates, run `npx skills update`.
